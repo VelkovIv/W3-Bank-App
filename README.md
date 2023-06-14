@@ -4,6 +4,11 @@ Welcome to your new dbank project and to the internet computer development commu
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
+## Screen Shot
+
+![image](https://github.com/VelkovIv/W3-Bank-App/assets/114020789/1f1693b5-6b3b-4054-9e50-b38a2e84c578)
+
+
 To learn more before you start working with dbank, see the following documentation available online:
 
 - [Quick Start](https://sdk.dfinity.org/docs/quickstart/quickstart-intro.html)
